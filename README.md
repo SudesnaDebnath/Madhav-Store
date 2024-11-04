@@ -7,10 +7,6 @@ Help Madhav Store owner create a dashboard to track and analyze their online sal
 ## The Brief:
 The Owner needs a way to track KPIs, compare Location, amount, quantity of product sales.
 
-## The Raw data:
-There are two raw dataset. 
-[Click Here](https://github.com/SudesnaDebnath/Madhav-Store/tree/main/Data%20Set)
-
 ## The Objective:
 
 #### 1. Connect and Transform the Raw Data
