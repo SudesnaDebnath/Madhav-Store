@@ -39,6 +39,8 @@ Filtering, formating, and design to get better view for end-user.
 
 Use Bookmarks capture the current state of a page, and allow users to return to that state using report actions.
 
+And also create Mobile Layout.
+
 **Target:** Easy to understand for end-user
 
 ## Conclusion: 
